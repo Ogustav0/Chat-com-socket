@@ -1,4 +1,3 @@
-# socket-chat
 <div align="center">
 <h1>Aplicação socket</h1>
 
