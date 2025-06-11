@@ -11,4 +11,4 @@ Para rodar execute os comandos:<br>
     4 - enviar mensagem em uma aba e receber em todas as outras.<br>
 </h3>
 
-<footer>Gustavo Santos</footer>
+<footer align="center">Gustavo Santos</footer>
