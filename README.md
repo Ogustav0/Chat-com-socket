@@ -1,5 +1,5 @@
 # socket-chat
-
+<div align="center">
 <h1>Aplicação socket</h1>
 
 <h2>Necessário ter instalado o Node.js.</h2>
@@ -11,4 +11,5 @@ Para rodar execute os comandos:<br>
     4 - enviar mensagem em uma aba e receber em todas as outras.<br>
 </h3>
 
-<footer align="center">Gustavo Santos</footer>
+<footer>Gustavo Santos</footer>
+</div>
